@@ -1,0 +1,196 @@
+================================================================================
+                    GREENFIELD INSTITUTE OF TECHNOLOGY
+                    STUDENT HANDBOOK 2025-2026
+                    (FICTIONAL SAMPLE DOCUMENT FOR TESTING)
+================================================================================
+
+This document is fictional sample content created for testing the DocuMind AI
+application. All policies, dates, names, and details are entirely made up.
+To use this for testing, convert it to a PDF using any text-to-PDF tool
+(e.g., Microsoft Word, Google Docs, or an online converter).
+
+================================================================================
+PAGE 1 - ATTENDANCE POLICY
+================================================================================
+
+CHAPTER 1: ATTENDANCE POLICY
+
+1.1 Minimum Attendance Requirement
+All students must maintain a minimum attendance of 75% in each subject to be
+eligible to appear in the end-semester examinations. Attendance is calculated
+separately for lectures, tutorials, and laboratory sessions.
+
+1.2 Attendance Tracking
+Attendance is recorded digitally using the GIT Student Portal. Students must
+mark their attendance within the first 15 minutes of each class session using
+their registered student ID card. Proxy attendance is a serious disciplinary
+offense and will result in suspension for a minimum of two weeks.
+
+1.3 Medical Leave
+Students who miss classes due to medical reasons must submit a medical
+certificate from a registered medical practitioner within 7 working days of
+returning to campus. Medical leave applications are reviewed by the Dean of
+Student Affairs, Dr. Priya Sharma. Approved medical leave counts toward the
+attendance requirement, up to a maximum of 15% of total classes.
+
+1.4 Attendance Shortage
+Students whose attendance falls below 75% will receive a warning notification
+when their attendance reaches 78%. Students below 70% attendance will be
+debarred from the end-semester examination and must repeat the course in the
+next academic cycle. Appeals can be submitted to the Attendance Review
+Committee before November 15, 2025.
+
+================================================================================
+PAGE 2 - ASSIGNMENT SUBMISSION POLICY
+================================================================================
+
+CHAPTER 2: ASSIGNMENT SUBMISSION POLICY
+
+2.1 Submission Format
+All assignments must be submitted electronically through the GIT Learning
+Management System (LMS) at https://lms.greenfield-institute.edu (fictional).
+Submissions must be in PDF format unless the instructor specifies otherwise.
+Each submission must include a cover page with the student's name, roll number,
+subject code, and submission date.
+
+2.2 Deadlines
+Assignment deadlines are published on the LMS at the beginning of each
+semester. The standard submission window closes at 11:59 PM IST on the due
+date. Late submissions are accepted with the following penalties:
+
+  - Up to 24 hours late: 10% marks deduction
+  - 24 to 48 hours late: 25% marks deduction
+  - 48 to 72 hours late: 50% marks deduction
+  - More than 72 hours late: Assignment will not be accepted
+
+2.3 Plagiarism Policy
+All assignments are checked using automated plagiarism detection software.
+A similarity score above 30% will be flagged for review. Confirmed plagiarism
+results in zero marks for the assignment on the first offense, an F grade in
+the course on the second offense, and academic probation on the third offense.
+
+2.4 Group Assignments
+Group assignments must clearly list all contributing members. Each group
+member must submit an individual contribution statement. The maximum group
+size is 4 students unless specified otherwise by the course instructor.
+
+================================================================================
+PAGE 3 - LABORATORY SESSIONS
+================================================================================
+
+CHAPTER 3: LABORATORY SESSIONS
+
+3.1 Laboratory Schedule
+Laboratory sessions are held according to the timetable published by the
+Department Office. Each lab session is 3 hours long. Students must arrive
+within the first 10 minutes; late arrivals will not be permitted to enter
+the laboratory.
+
+3.2 Laboratory Requirements
+Students must bring the following to every lab session:
+  - Lab manual (printed or digital copy)
+  - Lab record book (hardbound, 200 pages)
+  - Student ID card
+  - USB drive for saving work (minimum 8 GB)
+  - Appropriate safety equipment as specified for the lab
+
+3.3 Lab Report Submission
+Lab reports must be submitted within one week of completing the experiment.
+Reports must follow the standard format: Objective, Theory, Procedure,
+Observations, Calculations, Results, and Conclusion. Handwritten lab records
+are preferred for experimental courses. Digital submissions are accepted for
+programming and simulation labs.
+
+3.4 Safety Regulations
+All students must complete the mandatory Laboratory Safety Training module
+on the LMS before attending their first lab session. The training must be
+completed by August 10, 2025. Students who have not completed the safety
+training will not be allowed to enter any laboratory.
+
+3.5 Equipment Damage
+Students are financially responsible for any laboratory equipment damaged
+due to negligence. The cost of damaged equipment will be added to the
+student's fee account. All equipment damage must be reported immediately
+to the Lab Supervisor, Mr. Rajesh Kumar.
+
+================================================================================
+PAGE 4 - PROJECT DEADLINES AND GUIDELINES
+================================================================================
+
+CHAPTER 4: PROJECT DEADLINES AND GUIDELINES
+
+4.1 Final Year Project Timeline
+The final year project follows a two-semester schedule:
+
+  Semester 7 (Odd Semester):
+  - Topic Selection and Approval: August 25, 2025
+  - Literature Survey Submission: September 15, 2025
+  - Project Proposal Presentation: October 1, 2025
+  - Mid-Semester Progress Review: October 20, 2025
+
+  Semester 8 (Even Semester):
+  - Implementation Phase 1 Review: February 1, 2026
+  - Implementation Phase 2 Review: March 15, 2026
+  - Final Project Report Submission: April 10, 2026
+  - Project Demonstration and Viva: April 20-25, 2026
+
+4.2 Project Report Format
+The project report must be between 60 and 100 pages, formatted according to
+the GIT Project Report Template available on the LMS. The report must include:
+Abstract, Introduction, Literature Review, Methodology, Implementation,
+Testing, Results, Conclusion, and References.
+
+4.3 Project Guide
+Each student or team must have an assigned faculty project guide. Students
+must meet their project guide at least twice a month. Meeting logs must be
+maintained and submitted with the final report.
+
+4.4 External Projects
+Students undertaking projects in collaboration with external organizations
+must obtain prior approval from the Head of Department by August 15, 2025.
+An MOU between the institute and the external organization is required.
+
+================================================================================
+PAGE 5 - STUDENT SUPPORT SERVICES
+================================================================================
+
+CHAPTER 5: STUDENT SUPPORT SERVICES
+
+5.1 Academic Counseling
+Each student is assigned an academic counselor from the faculty. Counseling
+sessions are held every Wednesday from 3:00 PM to 5:00 PM. Students
+struggling academically can request additional sessions through the
+Student Affairs Office in Room 201, Block A.
+
+5.2 Mental Health Support
+The institute provides free counseling services through the Wellness Center,
+located in Block C, Ground Floor. Appointments can be booked through the
+student portal or by calling extension 4567. The Wellness Center is open
+Monday to Friday, 9:00 AM to 6:00 PM. All sessions are strictly confidential.
+
+5.3 Library Services
+The Central Library is open from 8:00 AM to 10:00 PM on weekdays and
+9:00 AM to 6:00 PM on weekends. Students can borrow up to 5 books at a
+time for a period of 14 days. The digital library provides access to over
+50,000 e-books and 10,000 research journals through IEEE Xplore, Springer,
+and ACM Digital Library subscriptions.
+
+5.4 Financial Aid
+Students facing financial difficulties can apply for the GIT Merit-cum-Means
+Scholarship. Applications open on July 1, 2025, and close on August 31, 2025.
+The scholarship covers up to 75% of tuition fees based on academic performance
+and financial need. Contact the Financial Aid Office at finance@greenfield-
+institute.edu (fictional).
+
+5.5 Placement Cell
+The Training and Placement Cell organizes campus recruitment drives from
+September to March. Students must register on the placement portal by
+August 20, 2025. The placement cell also conducts aptitude training,
+mock interviews, and resume workshops starting from July 15, 2025.
+
+================================================================================
+END OF STUDENT HANDBOOK
+================================================================================
+
+Note: This is a FICTIONAL document created solely for testing the DocuMind AI
+RAG application. No real institution, person, or policy is referenced.
